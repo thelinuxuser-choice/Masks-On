@@ -1,5 +1,6 @@
 # Masks-On
 covid 19 tracker made with python3 , you can get specific country covid 19 situation or global covid 19 situation
+>please note sometimes it will take time or give errors, because this api has lot of requests
 
 ![trial](assets/)"this short gif will make soon"
 
