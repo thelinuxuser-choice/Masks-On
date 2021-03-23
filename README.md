@@ -26,9 +26,11 @@ note:python3 required "python  MasksOn.py" is for some windows only have python3
 ```
 ## windows
 <p align="center">
-  <img src="/assets/windows.png">
+  <img src="/assets/1.png">
 </p>
-
+<p align="center">
+  <img src="/assets/2.png">
+</p>
 ## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
